@@ -24,7 +24,7 @@ Test set accuracy: 81.64%
 [The 3rd ipynb notebook (keypoint_identification_posenet)](https://github.com/yj2811/Yoga-Pose-Classification/blob/main/keypoint_identification_posenet_.ipynb) uses PyTorch implementation (multi-pose only) of the Google TensorFlow.js Posenet model to predicts the locations of 17 keypoints of the human body.
 
 Currently working on: 
-1. Using geometry and the key points generated (which will be extracted to JSON) to classify the yoga poses by finding patterns.
+1. Using geometry and the key points generated (which will be extracted as a JSON object) to classify the yoga poses by finding patterns.
 2. Using PoseNet for initial keypoint identification followed by CNN for classification of yoga poses by extracting features from 2D coordinates of the keypoints.
 
 (These joint locations or keypoints are indexed by "Part ID” which is a confidence score whose value lies in the range of 0.0 and 1.0 with 1.0 being the greatest.)
