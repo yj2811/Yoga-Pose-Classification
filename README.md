@@ -1,6 +1,6 @@
 # Yoga-Pose-Classification
 
-AIM: To classify images of people into their respective yoga pose’s class (Part of Evolv Fit Hiring Challenge)
+AIM: To classify images of people into their respective yoga pose’s class 
 
 Using Jupyter Notebooks to showcase the source code and its corresponding output: 
 
