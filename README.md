@@ -1,9 +1,5 @@
 # Yoga-Pose-Classification
 
-AIM: To classify images of people into their respective yoga pose’s class 
-
-Using Jupyter Notebooks to showcase the source code and its corresponding output: 
-
 [The 1st ipynb notebook (Yoga_Pose_Classifier_CNN)](https://github.com/yj2811/Yoga-Pose-Classification/blob/main/Yoga_Pose_Classifier_CNN.ipynb) uses a custom-made CNN model to classify the images. 
 
 Training set : 1011 image files,
